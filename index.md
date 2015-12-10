@@ -15,4 +15,4 @@ I am working to become a web developer and everyone says that I need to create a
 </ul>
 
 ## Contact
-<a href="mailto:baustin@gmx.com">Email me</a> <a href="https://www.twitter.com/thebenaustin">Tweet Me</a>
+<a href="mailto:benjamin.k.austin@gmail.com">Email me</a> <a href="https://www.twitter.com/thebenaustin">Tweet Me</a>
